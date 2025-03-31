@@ -1,6 +1,7 @@
 # Audio_Denoising_Using_FFT_and_CNN
 - **Supervisor:** [Dr. Esmaeel Tahanian](https://scholar.google.com/citations?user=oiGyCF4AAAAJ&hl=en) <br>
 - **Course:** Engineering Mathematics <br>
+- **Organization:** [Shahrood University of Technology](https://www.shahroodut.ac.ir/en/) <br>
 
 This project develops an audio denoising system integrating Fourier transform-based signal processing and deep learning Autoencoders to suppress noise while maintaining acoustic integrity. It utilizes Fourier analysis for spectral noise reduction and trains an Autoencoder model on noisy audio data to reconstruct clean signals. Implemented in Python and TensorFlow.
 # Demo :tada:
